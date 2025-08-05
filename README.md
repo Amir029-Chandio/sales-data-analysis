@@ -1,5 +1,3 @@
-# 📊 Sales Data Analysis
-
 This project analyzes a small retail store's sales dataset using basic descriptive statistics and visualizations. It is designed as an introductory project in data analytics.
 
 ---
@@ -58,6 +56,10 @@ At the end of the analysis, a brief report is provided summarizing:
 - Which product or category sells the most
 - Monthly sales trends
 - Any anomalies or interesting insights
+
+## 💼 Internship Credit
+This project is part of my **Data Science Internship** with [Coding Samurai](https://www.codingsamurai.in/).
+# 📊 Sales Data Analysis
 
 
 
